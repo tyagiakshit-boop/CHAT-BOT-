@@ -35,5 +35,4 @@ Building this project was a deep dive into backend engineering and API integrati
 ### Steps to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/tyagiakshit-boop/cp-tracker-bot.git](https://github.com/tyagiakshit-boop/cp-tracker-bot.git)
-   cd cp-tracker-bot
+   git clone https://github.com/tyagiakshit-boop/CHAT-BOT-
